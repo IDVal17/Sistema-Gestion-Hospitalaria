@@ -50,7 +50,7 @@ void menuSesionMedico(char* codigoMedico) {
 		}
 	} while(op != 3);
 }
-
+// Modificacion realizada por la rama isaac
 void zonaStaff() {
 	int tipo, accion;
 	limpiar();
